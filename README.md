@@ -1,8 +1,8 @@
-##**Descripción del Programa**
+## **Descripción del Programa**
 
 Este programa permite al usuario ingresar un número natural y calcula sus divisores.
 
-###**Funciones**
+### **Funciones**
 
 **NumeroNaturalError:** Excepción personalizada para manejar errores relacionados con números no naturales.
 
